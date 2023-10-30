@@ -1,0 +1,38 @@
+body {
+  background-color: #F4EFD6;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.button {
+  display: flex;
+  flex-direction: column;
+  float : right;
+  font-size: 160px;
+  justify-content: center;
+  margin-right: 25%;
+  margin-top: 10%;
+  
+}
+
+.who {
+  float : left;
+  font-size: 30px;
+  margin-left: 25%;
+  margin-top: 10%;
+}
+
+.who h4 {
+  font-weight: 400;
+}
+
+.who h6 {
+  font-weight: 300;
+}
+
+.social-media {
+  float: left;
+  font-style: italic;
+  text-align : left;
+  text-orientation: upright;
+  writing-mode: vertical-rl;
+}
